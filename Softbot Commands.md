@@ -1,7 +1,7 @@
 Commands:
 =========
 
-X specifies a number - arguments between ( ) are optional.
+X specifies a number - arguments between ( ) are optional
 
 
 Manager
@@ -41,3 +41,4 @@ User
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
 |!ping | | Pong! |
+|!commands | | Links the commands page |
