@@ -46,7 +46,7 @@ Resident DJ
 |!manager | | Explains what a manager is |
 |!host | | Explains what a host/co-host is |
 |!ba | | Explains what a Brand Ambassador is |
-|!pic | | Displays a link to the current video thumbnail |
+|!pic | | Links to the current video thumbnail |
 
 
 User
@@ -58,3 +58,4 @@ User
 |!commands | (@user) | Links the commands page |
 |!help | (@user) | Links an image on how to use Plug.DJ |
 |!rules | (@user) | Links the rules page |
+|!link | | Links the current song |
