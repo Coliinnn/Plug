@@ -4,6 +4,8 @@ Rules
 ======
 
 
+
+
 ###General
 ======
 
@@ -13,12 +15,16 @@ Rules
 * Keep your woot/meh ratio positive. Woot more than you meh.
 
 
+
+
 ###Chat
 ======
 
 * Do not verbally abuse and/or disrespect others.
 * Do not spam.
 * Do not ask for ranks.
+
+
 
 
 ###Songs/Videos
