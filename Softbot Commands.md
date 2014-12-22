@@ -46,6 +46,7 @@ Resident DJ
 |!manager | | Explains what a manager is |
 |!host | | Explains what a host/co-host is |
 |!ba | | Explains what a Brand Ambassador is |
+|!pic | | Displays a link to the current video thumbnail |
 
 
 User
