@@ -1,7 +1,7 @@
 Commands:
 =========
 
-X specifies a number - arguments between ( ) are optional
+X specifies a number - arguments between ( ) are optional.
 
 
 Manager
