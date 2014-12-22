@@ -6,7 +6,7 @@ Rules
 
 
 
-####General
+##General
 ======
 
 * Use common sense.
@@ -17,7 +17,7 @@ Rules
 
 
 
-####Chat
+##Chat
 ======
 
 * Do not verbally abuse and/or disrespect others.
@@ -27,7 +27,7 @@ Rules
 
 
 
-####Songs/Videos
+##Songs/Videos
 ======
 
 * Do not play NSFW material.
