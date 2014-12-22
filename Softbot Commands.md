@@ -26,6 +26,9 @@ Bouncer
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
 |!skip | | Skips the current song |
+|!getcid | | Displays the CiD of the current song |
+|!getmedia | | Displays the author and name of the current song |
+|!autojoin | | Displays a warning message about autojoin |
 
 
 Resident DJ
