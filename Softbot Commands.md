@@ -13,6 +13,7 @@ Manager
 |!refresh| | Refreshes the browser of the bot |
 |!reload | | Reloads the bot |
 
+
 Bouncer+
 --------
 
@@ -22,6 +23,7 @@ Bouncer+
 |!unlock | | Unlocks the waitlist |
 |!clearlock | | Clears and locks the waitlist |
 |!clearwaitlist | | Clears the waitlist |
+
 
 Bouncer
 -------
@@ -39,8 +41,11 @@ Resident DJ
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!N/A | | N/A
-
+|!rdj | | Explains what a Resident DJ is |
+|!bouncer | | Explains what a bouncer is |
+|!manager | | Explains what a manager is |
+|!host | | Explains what a host/co-host is |
+|!ba | | Explains what a Brand Ambassador is |
 
 
 User
