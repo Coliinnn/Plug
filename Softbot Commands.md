@@ -60,3 +60,5 @@ User
 |!rules | (@user) | Links the rules page |
 |!link | | Links the current song |
 |!theme | | Shows information on the room theme/genres |
+|!p3| | Links PlugCubed |
+|!adblock| | Links Adblock |
