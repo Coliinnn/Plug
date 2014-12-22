@@ -4,7 +4,7 @@ Rules
 ======
 
 
-General
+##General
 ======
 
 * Use common sense.
@@ -13,7 +13,7 @@ General
 * Keep your woot/meh ratio positive. Woot more than you meh.
 
 
-Chat
+###Chat
 ======
 
 * Do not verbally abuse and/or disrespect others.
@@ -21,7 +21,7 @@ Chat
 * Do not ask for ranks.
 
 
-Songs/Videos
+####Songs/Videos
 ======
 
 * Do not play NSFW material.
