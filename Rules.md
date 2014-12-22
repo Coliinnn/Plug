@@ -7,7 +7,6 @@ Rules
 
 
 ##General
-======
 
 * Use common sense.
 * All staff decisions are final.
@@ -18,7 +17,6 @@ Rules
 
 
 ##Chat
-======
 
 * Do not verbally abuse and/or disrespect others.
 * Do not spam.
@@ -28,7 +26,6 @@ Rules
 
 
 ##Songs/Videos
-======
 
 * Do not play NSFW material.
 * Songs longer than 8 minutes will be skipped when they hit the limit.
