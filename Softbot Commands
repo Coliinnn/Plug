@@ -1,6 +1,4 @@
-#Commands:
-=========
-
-X specifies a number
-arguments between ( ) are optional
-
+| First Header | Second Header |
+| :----------- | ------------- |
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
