@@ -10,6 +10,8 @@ Manager
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
 |!kill | | Shuts down the bot |
+|!refresh| | Refreshes the browser of the bot |
+|!reload | | Reloads the bot |
 
 Bouncer+
 --------
