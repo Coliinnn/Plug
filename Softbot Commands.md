@@ -59,3 +59,4 @@ User
 |!help | (@user) | Links an image on how to use Plug.DJ |
 |!rules | (@user) | Links the rules page |
 |!link | | Links the current song |
+|!theme | | Shows information on the room theme/genres |
