@@ -1,4 +1,44 @@
-| First Header | Second Header |
-| :----------- | ------:------ |
-| Content Cell | Content Cell  |
-| Content Cell | Content Cell  |
+Commands:
+=========
+
+X specifies a number
+Arguments between ( ) are optional
+
+
+Manager
+-------
+
+|Command | Arguments |  Description |
+|:------:|:---------:|:--------------------------------------:|
+|!kill | | Shuts down the bot |
+
+Bouncer+
+--------
+
+|Command | Arguments |  Description |
+|:------:|:---------:|:--------------------------------------:|
+|!N/A | | N/A |
+
+Bouncer
+-------
+
+|Command | Arguments |  Description |
+|:------:|:---------:|:--------------------------------------:|
+|!skip | | Skips the current song |
+
+
+Resident DJ
+-----------
+
+|Command | Arguments |  Description |
+|:------:|:---------:|:--------------------------------------:|
+|!N/A | | N/A
+
+
+
+User
+----
+
+|Command | Arguments |  Description |
+|:------:|:---------:|:--------------------------------------:|
+|!ping | | Pong! |
