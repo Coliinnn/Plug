@@ -1,6 +1,6 @@
 XXIII Century Music
 =======
-#### A Plug.DJ community.
+###### A Plug.DJ community.
 =======
 
 * [Visit our community!](https://plug.dj/century)
