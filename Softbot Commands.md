@@ -1,4 +1,4 @@
-Commands:
+Softbot Commands:
 =========
 
 X specifies a number - arguments between ( ) are optional
