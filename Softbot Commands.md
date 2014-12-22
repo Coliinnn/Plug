@@ -41,4 +41,4 @@ User
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
 |!ping | | Pong! |
-|!commands | | Links the commands page |
+|!commands | (@user) | Links the commands page |
