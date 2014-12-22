@@ -18,7 +18,10 @@ Bouncer+
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!N/A | | N/A |
+|!lock | | Locks the waitlist |
+|!unlock | | Unlocks the waitlist |
+|!clearlock | | Clears and locks the waitlist |
+|!clearwaitlist | | Clears the waitlist |
 
 Bouncer
 -------
