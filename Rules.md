@@ -4,7 +4,7 @@ Rules
 ======
 
 
-##General
+###General
 ======
 
 * Use common sense.
@@ -21,7 +21,7 @@ Rules
 * Do not ask for ranks.
 
 
-####Songs/Videos
+###Songs/Videos
 ======
 
 * Do not play NSFW material.
