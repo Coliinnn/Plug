@@ -4,15 +4,27 @@ Rules
 ======
 
 
+General
+======
 
-1. Use common sense.
-2. All staff decisions are final.
-3. No auto-meh plugins/extensions/scripts.
-4. Keep your woot/meh ratio positive. Woot more than you meh.
-5. Do not verbally abuse and/or disrespect others.
-6. Do not spam.
-7. Do not ask for ranks.
-8. Do not play NSFW material.
-9. Songs longer than 8 minutes will be skipped when they hit the limit.
-10. Songs that have been played recently will be skipped.
-11. No parody songs.
+* Use common sense.
+* All staff decisions are final.
+* No auto-meh plugins/extensions/scripts.
+* Keep your woot/meh ratio positive. Woot more than you meh.
+
+
+Chat
+======
+
+* Do not verbally abuse and/or disrespect others.
+* Do not spam.
+* Do not ask for ranks.
+
+
+Songs/Videos
+======
+
+* Do not play NSFW material.
+* Songs longer than 8 minutes will be skipped when they hit the limit.
+* Songs that have been played recently will be skipped.
+* No parody songs.
