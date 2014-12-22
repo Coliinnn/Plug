@@ -4,4 +4,4 @@ XXIII Century Music
 =======
 
 * [Visit our community!](https://plug.dj/century)
-* [Softbot Commands](http://forum.hivemc.com)
+* [Softbot Commands](https://github.com/Colinowww/Century/blob/master/Softbot%20Commands)
