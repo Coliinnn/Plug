@@ -42,3 +42,4 @@ User
 |:------:|:---------:|:--------------------------------------:|
 |!ping | | Pong! |
 |!commands | (@user) | Links the commands page |
+|!help | (@user) | Links an image on how to use Plug.DJ |
