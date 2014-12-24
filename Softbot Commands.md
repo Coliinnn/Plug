@@ -9,7 +9,8 @@ Manager
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!kill | | Shuts down the bot |
+|!kill | | Shuts down the bot and refreshes |
+|!stop | | Stops the bot |
 |!refresh| | Refreshes the browser of the bot |
 |!reload | WIP | Reloads the bot |
 
