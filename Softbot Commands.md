@@ -23,6 +23,7 @@ Bouncer+
 |!unlock | | Unlocks the waitlist |
 |!clearlock | | Clears and locks the waitlist |
 |!clearwaitlist | | Clears the waitlist |
+|!clearchat | | Clears chat |
 
 
 Bouncer
@@ -34,6 +35,9 @@ Bouncer
 |!getcid | | Displays the CiD of the current song |
 |!getmedia | | Displays the author and name of the current song |
 |!autojoin | | Displays a warning message about autojoin |
+|!mehs | | Displays a warning message about excessively meh'ing |
+|!version | | Displays bot version |
+|!lockskip | | Skips and moves DJ back to #1 in the waitlist |
 
 
 Resident DJ
@@ -60,5 +64,6 @@ User
 |!rules | (@user) | Links the rules page |
 |!link | | Links the current song |
 |!theme | | Shows information on the room theme/genres |
-|!p3| | Links PlugCubed |
-|!adblock| | Links Adblock |
+|!p3 | | Links PlugCubed |
+|!adblock | | Links Adblock |
+|!emoji | | Links emoji-cheat-sheet |
