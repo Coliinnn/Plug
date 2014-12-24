@@ -11,7 +11,7 @@ Manager
 |:------:|:---------:|:--------------------------------------:|
 |!kill | | Shuts down the bot |
 |!refresh| | Refreshes the browser of the bot |
-|!reload | | Reloads the bot |
+|!reload | WIP | Reloads the bot |
 
 
 Bouncer+
