@@ -2,6 +2,7 @@ Softbot Commands:
 =========
 
 X specifies a number - arguments between ( ) are optional
+NOTE: This bot is a work-in-progress. Features may not work as they should.
 
 
 Manager
