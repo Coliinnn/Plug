@@ -57,12 +57,12 @@ User
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!ping | | Pong! |
+|!ping | (@user) | Pong! |
 |!commands | (@user) | Links the commands page |
 |!help | (@user) | Links an image on how to use Plug.DJ |
 |!rules | (@user) | Links the rules page |
-|!link | | Links the current song |
+|!link | (@user) (@user) | Links the current song |
 |!theme | | Shows information on the room theme/genres |
-|!p3 | | Links PlugCubed |
-|!adblock | | Links Adblock |
-|!emoji | | Links emoji-cheat-sheet |
+|!p3 | (@user) | Links PlugCubed |
+|!adblock | (@user) | Links Adblock |
+|!emoji | (@user) | Links emoji-cheat-sheet |
