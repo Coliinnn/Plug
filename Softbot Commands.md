@@ -10,11 +10,11 @@ Manager
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!kill | | Shuts down the bot and refreshes |
-|!stop | | Stops the bot |
-|!refresh| | Refreshes the browser of the bot |
-|!reload | WIP | Reloads the bot |
-|!lockdown | | Puts room in lockdown |
+|!kill | null | Shuts down the bot and refreshes |
+|!stop | null | Stops the bot |
+|!refresh| null | Refreshes the browser of the bot |
+|!reload | null | Reloads the bot |
+|!lockdown | null | Puts room in lockdown |
 
 
 Bouncer+
@@ -22,11 +22,11 @@ Bouncer+
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!lock | | Locks the waitlist |
-|!unlock | | Unlocks the waitlist |
-|!clearlock | | Clears and locks the waitlist |
-|!clearwaitlist | | Clears the waitlist |
-|!clearchat | | Clears chat |
+|!lock | null | Locks the waitlist |
+|!unlock | null | Unlocks the waitlist |
+|!clearlock | null | Clears and locks the waitlist |
+|!clearwaitlist | null | Clears the waitlist |
+|!clearchat | null | Clears chat |
 
 
 Bouncer
@@ -34,13 +34,13 @@ Bouncer
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!skip | | Skips the current song |
-|!getcid | | Displays the CiD of the current song |
-|!getmedia | | Displays the author and name of the current song |
-|!autojoin | | Displays a warning message about autojoin |
-|!mehs | | Displays a warning message about excessively meh'ing |
-|!version | | Displays bot version |
-|!lockskip | | Skips and moves DJ back to #1 in the waitlist |
+|!skip | null | Skips the current song |
+|!getcid | null | Displays the CiD of the current song |
+|!getmedia | null | Displays the author and name of the current song |
+|!autojoin | null | Displays a warning message about autojoin |
+|!mehs | null | Displays a warning message about excessively meh'ing |
+|!version | null | Displays bot version |
+|!lockskip | null | Skips and moves DJ back to #1 in the waitlist |
 
 
 Resident DJ
@@ -48,7 +48,7 @@ Resident DJ
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!pic | | Links the current video thumbnail |
+|!pic | null | Links the current video thumbnail |
 |!staff | rdj, bouncer, manager, host, ba, admin | Explains what the rank is |
 
 
@@ -61,8 +61,8 @@ User
 |!commands | (@user) | Links the commands page |
 |!help | (@user) | Links an image on how to use Plug.DJ |
 |!rules | (@user) | Links the rules page |
-|!link | (@user) (@user) | Links the current song |
-|!theme | | Shows information on the room theme/genres |
+|!link | (@user) | Links the current song |
+|!theme | null | Shows information on the room theme/genres |
 |!p3 | (@user) | Links PlugCubed |
 |!adblock | (@user) | Links Adblock |
 |!emoji | (@user) | Links emoji-cheat-sheet |
