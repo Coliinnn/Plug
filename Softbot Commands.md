@@ -54,6 +54,7 @@ Resident DJ
 |!host | | Explains what a host/co-host is |
 |!ba | | Explains what a Brand Ambassador is |
 |!pic | | Links the current video thumbnail |
+|!staff | rdj, bouncer, manager, host, ba | | Explains the rank |
 
 
 User
