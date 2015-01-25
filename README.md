@@ -1,8 +1,7 @@
-XXIII Century Music
+Plug.DJ
 =======
-###### A Plug.DJ community.
+###### Join a party. Be a DJ. Or just listen. Enjoy music together with people from around the world right now.
 =======
 
-* [Visit our community!](https://plug.dj/century)
 * [Rules](https://github.com/Colinowww/Century/blob/master/Rules)
 * [Softbot Commands](https://github.com/Colinowww/Century/blob/master/Softbot%20Commands)
