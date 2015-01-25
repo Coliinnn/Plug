@@ -14,6 +14,7 @@ Manager
 |!stop | | Stops the bot |
 |!refresh| | Refreshes the browser of the bot |
 |!reload | WIP | Reloads the bot |
+|!lockdown | | Puts room in lockdown |
 
 
 Bouncer+
