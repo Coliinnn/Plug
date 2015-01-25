@@ -48,13 +48,8 @@ Resident DJ
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!rdj | | Explains what a Resident DJ is |
-|!bouncer | | Explains what a bouncer is |
-|!manager | | Explains what a manager is |
-|!host | | Explains what a host/co-host is |
-|!ba | | Explains what a Brand Ambassador is |
 |!pic | | Links the current video thumbnail |
-|!staff | rdj, bouncer, manager, host, ba | | Explains the rank |
+|!staff | rdj, bouncer, manager, host, ba, admin | | Explains the rank |
 
 
 User
