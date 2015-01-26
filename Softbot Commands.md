@@ -49,7 +49,7 @@ Resident DJ
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
 |!pic | null | Links the current video thumbnail |
-|!staff | rdj, bouncer, manager, host, ba, admin | Explains what the rank is |
+|!staff <arg> | rdj, bouncer, manager, host, ba, admin | Explains what the rank is |
 
 
 User
