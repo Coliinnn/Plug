@@ -10,7 +10,7 @@ Manager
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!kill | null | Shuts down the bot and refreshes |
+|!kill | null | Shuts down the bot and stops all processes |
 |!stop | null | Stops the bot |
 |!refresh| null | Refreshes the browser of the bot |
 |!reload | null | Reloads the bot |
