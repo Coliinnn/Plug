@@ -66,5 +66,5 @@ User
 |!p3 | (@user) | Links PlugCubed |
 |!adblock | (@user) | Links Adblock |
 |!emoji | (@user) | Links emoji-cheat-sheet |
-|!oplist | (@user) | Links OPlist |
-|!bllist | (@user) | Links Blacklist |
+|!oplist / !op | (@user) | Links OPlist |
+|!bllist / !bl | (@user) | Links Blacklist |
