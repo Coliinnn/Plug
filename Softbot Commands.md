@@ -21,7 +21,7 @@ Manager
 |!sb songstats / ss | null | Toggles song stats |
 |!sb songfilter / sf | null | Toggles song filter |
 |!sb chatfilter / cf | [1-9999] | Toggles chat filter / sets auto-toggle timer |
-|!sb usercmd / uc | [1-9999] | Toggles user commands / sets auto-toggle timer |
+|!sb usercmd / uc | timer [1-9999] | Toggles user commands / sets auto-toggle timer |
 
 
 Bouncer+
