@@ -1,7 +1,9 @@
 Softbot Commands:
 =========
 
-X specifies a number - arguments between ( ) are optional. NOTE: This bot is a work-in-progress. Features may not work as they should.
+NOTE: This bot is a work-in-progress. Features may not work as they should.
+
+X specifies a number - arguments between ( ) are optional.
 
 In regards to the !sb commands; 'timer' is an optional argument that will automatically toggle on/off again after X minutes. (timer) means that you can provide just the numbers as second argument in order to set X.
 
