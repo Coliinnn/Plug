@@ -15,8 +15,13 @@ Manager
 |!refresh| null | Refreshes the browser of the bot |
 |!reload | null | Reloads the bot |
 |!lockdown | null | Puts room in lockdown |
+|!sb ads | null | Toggles advertisements |
+|!sb history | null | Toggles history skipping |
+|!sb songlength | null | Toggles song length skipping |
+|!sb songstats | null | Toggles song stats |
+|!sb songfilter | null | Toggles song filter |
+|!sb chatfilter | null | Toggles chat filter |
 |!sb usercmd | null | Toggles user commands |
-|!sb history | null | Toggles historry skipping |
 
 
 Bouncer+
