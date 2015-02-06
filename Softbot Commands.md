@@ -15,13 +15,13 @@ Manager
 |!refresh| null | Refreshes the browser of the bot |
 |!reload | null | Reloads the bot |
 |!lockdown | null | Puts room in lockdown |
-|!sb ads | null | Toggles advertisements |
-|!sb history | null | Toggles history skipping |
-|!sb songlength | null | Toggles song length skipping |
-|!sb songstats | null | Toggles song stats |
-|!sb songfilter | null | Toggles song filter |
-|!sb chatfilter | null | Toggles chat filter |
-|!sb usercmd | null | Toggles user commands |
+|!sb ads / ad| null | Toggles advertisements |
+|!sb history / hs | null | Toggles history skipping |
+|!sb songlength / sl | null | Toggles song length skipping |
+|!sb songstats / ss | null | Toggles song stats |
+|!sb songfilter / sf | null | Toggles song filter |
+|!sb chatfilter / cf | null | Toggles chat filter |
+|!sb usercmd / uc | null | Toggles user commands |
 
 
 Bouncer+
@@ -66,7 +66,7 @@ User
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
 |!ping | (@user) | Pong! |
-|!commands | (@user) | Links the commands page |
+|!commands / !cmd | (@user) | Links the commands page |
 |!help | (@user) | Links an image on how to use Plug.DJ |
 |!rules | (@user) | Links the rules page |
 |!link | (@user) | Links the current song |
