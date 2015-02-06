@@ -15,7 +15,6 @@ Manager
 |!refresh| null | Refreshes the browser of the bot |
 |!reload | null | Reloads the bot |
 |!lockdown | null | Puts room in lockdown |
-|!test | null | Displays current settings |
 |!sb usercmd | null | Toggles user commands |
 |!sb history | null | Toggles historry skipping |
 
@@ -37,6 +36,7 @@ Bouncer
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
+|!test | null | Displays current settings |
 |!skip | null | Skips the current song |
 |!getcid | null | Displays the CiD of the current song |
 |!getmedia | null | Displays the author and name of the current song |
