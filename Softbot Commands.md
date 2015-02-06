@@ -15,6 +15,9 @@ Manager
 |!refresh| null | Refreshes the browser of the bot |
 |!reload | null | Reloads the bot |
 |!lockdown | null | Puts room in lockdown |
+|!test | null | Displays current settings |
+|!sb usercmd | null | Toggles user commands |
+|!sb history | null | Toggles historry skipping |
 
 
 Bouncer+
