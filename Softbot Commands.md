@@ -42,6 +42,7 @@ Bouncer
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
 |!test | null | Displays current settings |
+|!stats | null | Displays room statistics |
 |!skip | null | Skips the current song |
 |!getcid | null | Displays the CiD of the current song |
 |!getmedia | null | Displays the author and name of the current song |
