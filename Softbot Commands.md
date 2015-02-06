@@ -20,8 +20,8 @@ Manager
 |!sb songlength / sl | [1-9999] | Toggles song length skipping / sets maximum song time |
 |!sb songstats / ss | null | Toggles song stats |
 |!sb songfilter / sf | null | Toggles song filter |
-|!sb chatfilter / cf | null | Toggles chat filter |
-|!sb usercmd / uc | null | Toggles user commands |
+|!sb chatfilter / cf | [1-9999] | Toggles chat filter / sets auto-toggle timer |
+|!sb usercmd / uc | [1-9999] | Toggles user commands / sets auto-toggle timer |
 
 
 Bouncer+
