@@ -1,8 +1,7 @@
 Softbot Commands:
 =========
 
-X specifies a number - arguments between ( ) are optional.
-NOTE: This bot is a work-in-progress. Features may not work as they should.
+X specifies a number - arguments between ( ) are optional.\nNOTE: This bot is a work-in-progress. Features may not work as they should.
 
 
 Manager
@@ -15,13 +14,13 @@ Manager
 |!refresh| null | Refreshes the browser of the bot |
 |!reload | null | Reloads the bot |
 |!lockdown | null | Puts room in lockdown |
-|!sb ads / ad| [1-9999] | Toggles advertisements / Sets advertisement interval |
-|!sb history / hs | null | Toggles history skipping |
-|!sb songlength / sl | [1-9999] | Toggles song length skipping / sets maximum song time |
-|!sb songstats / ss | null | Toggles song stats |
-|!sb songfilter / sf | null | Toggles song filter |
-|!sb chatfilter / cf | [1-9999] | Toggles chat filter / sets auto-toggle timer |
-|!sb usercmd / uc | timer [1-9999] | Toggles user commands / sets auto-toggle timer |
+|!sb ad| (timer) [1-9999] | Toggles advertisements / Sets advertisement interval / sets auto-toggle timer |
+|!sb hs | timer [1-9999] | Toggles history skipping / sets auto-toggle timer |
+|!sb sl | (timer) [1-9999] | Toggles song length skipping / sets maximum song time / sets auto-toggle timer |
+|!sb ss | timer [1-9999] | Toggles song stats/ sets auto-toggle timer |
+|!sb sf | timer [1-9999] | Toggles song filter/ sets auto-toggle timer |
+|!sb cf | timer [1-9999] | Toggles chat filter / sets auto-toggle timer |
+|!sb uc | timer [1-9999] | Toggles user commands / sets auto-toggle timer |
 
 
 Bouncer+
