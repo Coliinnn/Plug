@@ -19,8 +19,8 @@ Manager
 |!sb ad| (timer) [1-9999] | Toggles advertisements / Sets advertisement interval / Sets auto-toggle timer |
 |!sb hs | timer [1-9999] | Toggles history skipping / Sets auto-toggle timer |
 |!sb sl | (timer) [1-9999] | Toggles song length skipping / Sets maximum song time / Sets auto-toggle timer |
-|!sb ss | timer [1-9999] | Toggles song stats/ Sets auto-toggle timer |
-|!sb sf | timer [1-9999] | Toggles song filter/ Sets auto-toggle timer |
+|!sb ss | timer [1-9999] | Toggles song stats / Sets auto-toggle timer |
+|!sb sf | timer [1-9999] | Toggles song filter / Sets auto-toggle timer |
 |!sb cf | timer [1-9999] | Toggles chat filter / Sets auto-toggle timer |
 |!sb uc | timer [1-9999] | Toggles user commands / Sets auto-toggle timer |
 
