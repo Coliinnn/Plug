@@ -15,9 +15,9 @@ Manager
 |!refresh| null | Refreshes the browser of the bot |
 |!reload | null | Reloads the bot |
 |!lockdown | null | Puts room in lockdown |
-|!sb ads / ad| null | Toggles advertisements |
+|!sb ads / ad| [1-9999] | Toggles advertisements / Sets advertisement interval |
 |!sb history / hs | null | Toggles history skipping |
-|!sb songlength / sl | null | Toggles song length skipping |
+|!sb songlength / sl | [1-9999] | Toggles song length skipping / sets maximum song time |
 |!sb songstats / ss | null | Toggles song stats |
 |!sb songfilter / sf | null | Toggles song filter |
 |!sb chatfilter / cf | null | Toggles chat filter |
