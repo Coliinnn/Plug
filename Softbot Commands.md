@@ -49,6 +49,8 @@ Bouncer
 |!stats | null | Displays room statistics |
 |!allowlink | @user | Sets user to RDJ for 20 seconds so they can post a link |
 |!skip | null | Skips the current song |
+|!kick | @user | Kicks user for 15 seconds |
+|!ban | @user hour/day/perm | Bans user for (one) hour/day/perm |
 |!getid | @user | Displays mentioned user's ID |
 |!getcid | null | Displays the CiD of the current song |
 |!getmedia | null | Displays the author and name of the current song |
