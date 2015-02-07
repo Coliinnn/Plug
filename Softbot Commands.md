@@ -32,6 +32,7 @@ Bouncer+
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
+|!move | @user posX | Moves user to posX in the waitlist |
 |!lock | (timer X) | Locks the waitlist / Sets auto-toggle timer |
 |!unlock | (timer X) | Unlocks the waitlist / Sets auto-toggle timer |
 |!clearlock | null | Clears and locks the waitlist |
