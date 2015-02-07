@@ -58,6 +58,9 @@ Bouncer
 |!mehs | null | Displays a warning message about excessively meh'ing |
 |!version | null | Displays bot version |
 |!lockskip | null | Skips and moves DJ back to #1 in the waitlist |
+|!add | @user | Adds user to the wait list |
+|!remove | @user | Removes user from the wait list |
+|!reloadlists | null | Reloads OP & Black lists |
 
 
 Resident DJ
