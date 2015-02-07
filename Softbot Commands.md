@@ -32,8 +32,8 @@ Bouncer+
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!lock | null | Locks the waitlist |
-|!unlock | null | Unlocks the waitlist |
+|!lock | (timer X) | Locks the waitlist / Sets auto-toggle timer |
+|!unlock | (timer X) | Unlocks the waitlist / Sets auto-toggle timer |
 |!clearlock | null | Clears and locks the waitlist |
 |!clearwaitlist | null | Clears the waitlist |
 |!clearchat | null | Clears chat |
