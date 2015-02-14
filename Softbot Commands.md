@@ -19,6 +19,7 @@ Manager
 |!reload | null | Reloads the bot |
 |!lockdown | null | Puts room in lockdown |
 |!sb ad| (timer) X | Toggles advertisements / Sets advertisement interval / Sets auto-toggle timer |
+|!sb dc | (timer) X | Toggles DC / Sets DC limit / Sets auto-toggle timer |
 |!sb hs | (timer X) | Toggles history skipping / Sets auto-toggle timer |
 |!sb sl | (timer) X | Toggles song length skipping / Sets maximum song time / Sets auto-toggle timer |
 |!sb ss | (timer X) | Toggles song stats / Sets auto-toggle timer |
@@ -79,6 +80,7 @@ User
 |:------:|:---------:|:--------------------------------------:|
 |!ping | (@user) | Pong! |
 |!commands / !cmd | (@user) | Links the commands page |
+|!dc | null | Moves user back to position after disconnecting |
 |!help | (@user) | Links an image on how to use Plug.DJ |
 |!rules | (@user) | Links the rules page |
 |!link | (@user) | Links the current song |
