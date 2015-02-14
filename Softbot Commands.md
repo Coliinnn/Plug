@@ -53,7 +53,7 @@ Bouncer
 |!kick | @user | Kicks user for 15 seconds |
 |!ban | @user hour/day/perm | Bans user for (one) hour/day/perm |
 |!getid | @user | Displays mentioned user's ID |
-|!getcid | null | Displays the CiD of the current song |
+|!getcid | null | Displays the cID of the current song |
 |!getmedia | null | Displays the author and name of the current song |
 |!autojoin | null | Displays a warning message about autojoin |
 |!mehs | null | Displays a warning message about excessively meh'ing |
