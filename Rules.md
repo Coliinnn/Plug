@@ -31,5 +31,5 @@ Rules
 * Do not play NSFW material.
 * Songs longer than 7 minutes will be skipped when they hit the limit.
 * Songs that have been played recently will be skipped.
-* No parody songs.
-* No troll videos.
+* No parody songs/videos.
+* No troll songs/videos.
