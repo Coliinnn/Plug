@@ -82,6 +82,7 @@ User
 |!ping | (@user) | Pong! |
 |!commands / !cmd | (@user) | Links the commands page |
 |!dc | null | Moves user back to position after disconnecting |
+|!eta | (@user) | Displays how long until user reaches the DJ booth |
 |!help | (@user) | Links an image on how to use Plug.DJ |
 |!rules | (@user) | Links the rules page |
 |!link | (@user) | Links the current song |
