@@ -3,7 +3,7 @@ Plug.DJ
 ###### Join a party. Be a DJ. Or just listen. Enjoy music together with people from around the world right now on http://plug.dj.
 =======
 
-##About:
+####About:
 
 Softbot is a private [Plug.DJ](https://plug.dj/) bot, built by Colin(owww). It has been made to moderate chat, and improve both users' and staff's experience on Plug.
 
