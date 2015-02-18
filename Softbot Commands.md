@@ -1,8 +1,6 @@
 Softbot Commands:
 =========
 
-NOTE: This bot is a work-in-progress. Features may not work as they should.
-
 X specifies a number - arguments between ( ) are optional.
 
 'Timer' is an optional argument that will automatically toggle on/off again after X minutes. (timer) means that you can provide just the numbers as second argument in order to set X.
