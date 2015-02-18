@@ -25,6 +25,7 @@ Manager
 |!sb sf | (timer X) | Toggles song filter / Sets auto-toggle timer |
 |!sb cf | (timer X) | Toggles chat filter / Sets auto-toggle timer |
 |!sb uc | (timer X) | Toggles user commands / Sets auto-toggle timer |
+|!roulette | null | Starts the roulette |
 
 
 Bouncer+
@@ -90,3 +91,5 @@ User
 |!emoji | (@user) | Links emoji-cheat-sheet |
 |!oplist / !op | (@user) | Links OPlist |
 |!bllist / !bl | (@user) | Links Blacklist |
+|!join | (@user) | Joins the roulette |
+!leave | (@user) | Leaves the roulette |
