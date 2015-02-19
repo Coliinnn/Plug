@@ -26,6 +26,7 @@ Manager
 |!sb cf | (timer X) | Toggles chat filter / Sets auto-toggle timer |
 |!sb uc | (timer X) | Toggles user commands / Sets auto-toggle timer |
 |!roulette | null | Starts the roulette |
+|!number | null | Starts Guess The Number |
 
 
 Bouncer+
