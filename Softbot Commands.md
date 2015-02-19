@@ -88,6 +88,7 @@ User
 |!link | (@user) | Links the current song |
 |!theme | null | Shows information on the room theme/genres |
 |!p3 | (@user) | Links PlugCubed |
+|!rcs | (@user) | Links Radiant Room Script |
 |!adblock | (@user) | Links Adblock |
 |!emoji | (@user) | Links emoji-cheat-sheet |
 |!oplist / !op | (@user) | Links OPlist |
