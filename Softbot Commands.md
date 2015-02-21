@@ -63,6 +63,8 @@ Bouncer
 |!stats | null | Displays room statistics |
 |!test | null | Displays current settings |
 |!version | null | Displays bot version |
+|!warncount | @user | Displays user's warncount |
+|!warnreset | @user | Resets user's warncount |
 
 
 Resident DJ
