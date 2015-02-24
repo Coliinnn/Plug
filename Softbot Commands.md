@@ -57,6 +57,7 @@ Bouncer
 |!kick | @user | Kicks user for 15 seconds |
 |!lockskip | null | Skips and moves DJ back to #1 in the waitlist |
 |!mehs | null | Displays a warning message about excessively meh'ing |
+|!mute | @user 15/30/45 | Mutes user for 15/30/45 minutes |
 |!reloadlists | null | Reloads OP & Black lists |
 |!remove | @user | Removes user from the wait list |
 |!skip | null | Skips the current song |
