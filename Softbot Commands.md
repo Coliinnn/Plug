@@ -22,6 +22,7 @@ Manager
 |!sb cf | (timer X) | Toggles chat filter / Sets auto-toggle timer |
 |!sb dc | (timer) (X) | Toggles DC / Sets DC limit / Sets auto-toggle timer |
 |!sb hs | (timer X) | Toggles history skipping / Sets auto-toggle timer |
+|!sb re | (timer X) | Toggles responsive chat / Sets auto-toggle timer |
 |!sb sf | (timer X) | Toggles song filter / Sets auto-toggle timer |
 |!sb sl | (timer) (X) | Toggles song length skipping / Sets maximum song time / Sets auto-toggle timer |
 |!sb ss | (timer X) | Toggles song stats / Sets auto-toggle timer |
