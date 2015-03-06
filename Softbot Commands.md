@@ -19,7 +19,7 @@ Manager
 |!reload | null | Reloads the bot |
 |!roulette | null | Starts the roulette |
 |!sb ad| (timer) (X) | Toggles advertisements / Sets advertisement interval / Sets auto-toggle timer |
-|!sb af | (timer) (X) | Toggles AFK Removal / Sets AFK limit / Sets auto-toggle timer |
+|!sb af | (timer) (rank) (X) | Toggles AFK Removal / Sets AFK limit / Sets auto-toggle timer / Sets rank-bypass |
 |!sb cf | (timer X) | Toggles chat filter / Sets auto-toggle timer |
 |!sb dc | (timer) (X) | Toggles DC / Sets DC limit / Sets auto-toggle timer |
 |!sb hs | (timer X) | Toggles history skipping / Sets auto-toggle timer |
