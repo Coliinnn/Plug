@@ -7,5 +7,5 @@ Plug.DJ
 
 [Softbot](https://plug.dj/@/softbot) is a private [Plug.DJ](https://plug.dj/) bot, built by [Colin](https://plug.dj/@/colin)([owww](https://plug.dj/@/colinowww)). It has been made to moderate chat, and improve both users' and staff's experience on Plug.
 
-* [Rules](https://github.com/Colinowww/Plug/blob/master/Rules)
+* [General Rules](https://github.com/Colinowww/Plug/blob/master/Rules)
 * [Softbot Commands](https://github.com/Colinowww/Plug/blob/master/Softbot%20Commands.md)
