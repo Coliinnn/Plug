@@ -91,6 +91,7 @@ User
 |!emoji | (@user) | Links emoji-cheat-sheet |
 |!eta | (@user) | Displays how long until user reaches the DJ booth |
 |!help | (@user) | Links an image on how to use Plug.DJ |
+|!info | (@user) | Links Softbot information page |
 |!join | (@user) | Joins the roulette |
 |!leave | (@user) | Leaves the roulette |
 |!link | (@user) | Links the current song |
