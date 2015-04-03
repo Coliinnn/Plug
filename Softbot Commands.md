@@ -66,6 +66,7 @@ Bouncer
 |!stats | null | Displays room statistics |
 |!test | null | Displays current settings |
 |!version | null | Displays bot version |
+|!voteratio | @user | Displays user's woots, mehs and ratio(w/m) |
 |!warncount | @user | Displays user's warncount |
 |!warnreset | @user | Resets user's warncount |
 
