@@ -40,7 +40,7 @@ Bouncer+
 |!clearlock | null | Clears and locks the waitlist |
 |!clearwaitlist | null | Clears the waitlist |
 |!lock | (timer X) | Locks the waitlist / Sets auto-toggle timer |
-|!move | @user posX | Moves user to posX in the waitlist |
+|!move | @user pos | Moves user to posX in the waitlist |
 |!unlock | (timer X) | Unlocks the waitlist / Sets auto-toggle timer |
 
 
