@@ -12,6 +12,7 @@ Manager
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
 |!freeze | null | Freezes chat |
+|!getstats | null | Displays account stats: Level, XP, PP |
 |!kill | null | Shuts down the bot and stops all processes |
 |!lockdown | null | Puts room in lockdown |
 |!number | null | Starts Guess The Number |
