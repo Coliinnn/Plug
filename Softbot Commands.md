@@ -89,6 +89,7 @@ User
 |:------:|:---------:|:--------------------------------------:|
 |!adblock | (@user) | Links Adblock |
 |!bllist / !bl | (@user) | Links Blacklist |
+|!changelog | (@user) | Links Softbot changelog |
 |!commands / !cmd | (@user) | Links the commands page |
 |!dc | null | Moves user back to position after disconnecting |
 |!emoji | (@user) | Links emoji-cheat-sheet |
