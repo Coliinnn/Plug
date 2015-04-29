@@ -19,14 +19,15 @@ Manager
 |!refresh| null | Refreshes the browser of the bot |
 |!reload | null | Reloads the bot |
 |!roulette | null | Starts the roulette |
-|!sb ad| (timer) (X) | Toggles advertisements / Sets advertisement interval / Sets auto-toggle timer |
-|!sb af | (timer) (rank) (X) | Toggles AFK Removal / Sets AFK limit / Sets auto-toggle timer / Sets rank-bypass |
+|!sb ad | (timer X) (X) | Toggles advertisements / Sets advertisement interval / Sets auto-toggle timer |
+|!sb af | (timer X) (rank) (X) | Toggles AFK Removal / Sets AFK limit / Sets auto-toggle timer / Sets rank-bypass |
 |!sb cf | (timer X) | Toggles chat filter / Sets auto-toggle timer |
-|!sb dc | (timer) (X) | Toggles DC / Sets DC limit / Sets auto-toggle timer |
+|!sb dc | (timer X) (X) | Toggles DC / Sets DC limit / Sets auto-toggle timer |
 |!sb hs | (timer X) | Toggles history skipping / Sets auto-toggle timer |
 |!sb rc | (timer X) | Toggles responsive chat / Sets auto-toggle timer |
 |!sb sf | (timer X) | Toggles song filter / Sets auto-toggle timer |
-|!sb sl | (timer) (X) | Toggles song length skipping / Sets maximum song time / Sets auto-toggle timer |
+|!sb sl | (timer X) (X) | Toggles song length skipping / Sets maximum song time / Sets auto-toggle timer |
+|!sb sk | (timer X) | Toggles stuck skipping / Sets auto-toggle timer |
 |!sb ss | (timer X) | Toggles song stats / Sets auto-toggle timer |
 |!sb uc | (timer X) | Toggles user commands / Sets auto-toggle timer |
 |!stop | null | Stops the bot |
