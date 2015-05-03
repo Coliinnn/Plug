@@ -1,4 +1,4 @@
-1.0.H:
+1.1.A:
 - Added Slack Reports
 - Added !sb sr
 - Removed "Banned USER for ..." message
