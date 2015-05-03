@@ -1,3 +1,8 @@
+1.0.H:
+- Added Slack Reports
+- Added !sb sr
+- Removed "Banned USER for ..." message
+
 1.0.G:
 - !help:
     - Changed !staff <rank> to !help <rank>
@@ -8,7 +13,6 @@
 - Changed !sb re to !sb rc
 - Added !sb sk
 - Added !changelog
-- Added auto-remove message force skip after 30s
 
 1.0.F:
 - Auto-demote users that left the room whilst being !allowlink'd
