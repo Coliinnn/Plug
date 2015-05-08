@@ -29,6 +29,8 @@ Manager
 |!sb sl | (timer X) (X) | Toggles song length skipping / Sets maximum song time / Sets auto-toggle timer |
 |!sb sk | (timer X) | Toggles stuck skipping / Sets auto-toggle timer |
 |!sb ss | (timer X) | Toggles song stats / Sets auto-toggle timer |
+|!sb slr | (timer X) | Toggles Slack Reporting / Sets auto-toggle timer |
+|!sb slc | (timer X) | Toggles Slack Chat Logging / Sets auto-toggle timer |
 |!sb uc | (timer X) | Toggles user commands / Sets auto-toggle timer |
 |!stop | null | Stops the bot |
 
