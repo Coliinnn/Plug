@@ -1,7 +1,15 @@
+1.1.B-WIP:
+- Added !sb slc
+- Changed !sb sr to !sb slr
+- Slack:
+    - Added High Ranked User Join reports
+    - Added Chat Logging
+
 1.1.A:
 - Added Slack Reports
 - Added !sb sr
 - Removed "Banned USER for ..." message
+- Added words to chatfilter
 
 1.0.G:
 - !help:
