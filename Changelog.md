@@ -1,8 +1,8 @@
-1.1.B-WIP:
+1.1.B:
 - Added !sb slc
 - Changed !sb sr to !sb slr
 - Slack:
-    - Added High Ranked User Join reports
+    - Added High Ranked User reports
     - Added Chat Logging
 
 1.1.A:
