@@ -81,7 +81,8 @@ Resident DJ
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
 |!pic | null | Links the current video thumbnail |
-|!staff | rdj, bouncer, manager, host, ba, admin | Explains what the rank is |
+|!help | rdj, bouncer, manager, host, ba, admin | Explains the issued argument |
+|!help | plug, roulette, number | Explains the issued argument |
 
 
 User
