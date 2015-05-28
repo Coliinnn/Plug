@@ -1,9 +1,16 @@
+1.1.C:
+- Slack:
+    - Fixed certain characters' parsing
+
 1.1.B:
 - Added !sb slc
 - Changed !sb sr to !sb slr
 - Slack:
     - Added High Ranked User reports
-    - Added Chat Logging
+    - Added chat logging
+    - Added user badges to Chat Logging
+    - Added meh logging
+    - Fixed certain characters' parsing
 
 1.1.A:
 - Added Slack Reports
