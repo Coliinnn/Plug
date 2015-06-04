@@ -19,19 +19,19 @@ Manager
 |!refresh| null | Refreshes the browser of the bot |
 |!reload | null | Reloads the bot |
 |!roulette | null | Starts the roulette |
-|!sb ad | (timer X) (X) | Toggles advertisements / Sets advertisement interval / Sets auto-toggle timer |
-|!sb af | (timer X) (rank) (X) | Toggles AFK Removal / Sets AFK limit / Sets auto-toggle timer / Sets rank-bypass |
-|!sb cf | (timer X) | Toggles chat filter / Sets auto-toggle timer |
-|!sb dc | (timer X) (X) | Toggles DC / Sets DC limit / Sets auto-toggle timer |
-|!sb hs | (timer X) | Toggles history skipping / Sets auto-toggle timer |
-|!sb rc | (timer X) | Toggles responsive chat / Sets auto-toggle timer |
-|!sb sf | (timer X) | Toggles song filter / Sets auto-toggle timer |
-|!sb sl | (timer X) (X) | Toggles song length skipping / Sets maximum song time / Sets auto-toggle timer |
-|!sb sk | (timer X) | Toggles stuck skipping / Sets auto-toggle timer |
-|!sb ss | (timer X) | Toggles song stats / Sets auto-toggle timer |
-|!sb slr | (timer X) | Toggles Slack Reporting / Sets auto-toggle timer |
-|!sb slc | (timer X) | Toggles Slack Chat Logging / Sets auto-toggle timer |
-|!sb uc | (timer X) | Toggles user commands / Sets auto-toggle timer |
+|!sb ad | (timer X) (X) | Toggles advertisements / Sets advertisement interval |
+|!sb af | (timer X) (rank) (X) | Toggles AFK Removal / Sets AFK limit / Sets rank-bypass |
+|!sb cf | (timer X) | Toggles chat filter |
+|!sb dc | (timer X) (X) | Toggles DC / Sets DC limit |
+|!sb hs | (timer X) | Toggles history skipping |
+|!sb rc | (timer X) | Toggles responsive chat |
+|!sb sf | (timer X) | Toggles song filter |
+|!sb sl | (timer X) (X) | Toggles song length skipping / Sets maximum song time |
+|!sb sk | (timer X) | Toggles stuck skipping |
+|!sb ss | (timer X) | Toggles song stats |
+|!sb slr | (timer X) | Toggles Slack Reporting |
+|!sb slc | (timer X) | Toggles Slack Chat Logging |
+|!sb uc | (timer X) | Toggles user commands |
 |!stop | null | Stops the bot |
 
 
@@ -43,9 +43,9 @@ Bouncer+
 |!clearchat | null | Clears chat |
 |!clearlock | null | Clears and locks the waitlist |
 |!clearwaitlist | null | Clears the waitlist |
-|!lock | (timer X) | Locks the waitlist / Sets auto-toggle timer |
+|!lock | (timer X) | Locks the waitlist |
 |!move | @user pos | Moves user to posX in the waitlist |
-|!unlock | (timer X) | Unlocks the waitlist / Sets auto-toggle timer |
+|!unlock | (timer X) | Unlocks the waitlist |
 
 
 Bouncer
