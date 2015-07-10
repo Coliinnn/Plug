@@ -10,7 +10,6 @@ Rules
 * All staff decisions are final.
 * No auto-meh plugins/extensions/scripts.
 * No auto-join plugins/extensions/scripts.
-* Do not "MEH" unless the song and/or video breaks the rules. In that case, also notify a member of staff.
 
 
 
