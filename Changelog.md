@@ -1,3 +1,6 @@
+1.1.D:
+- Added Idle mode
+
 1.1.C:
 - Slack:
     - Fixed certain characters' parsing
