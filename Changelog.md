@@ -1,3 +1,6 @@
+1.1.E:
+- Cleaned up code
+
 1.1.D:
 - Added Idle mode
 
