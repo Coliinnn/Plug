@@ -54,6 +54,7 @@ Bouncer
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
 |!add | @user | Adds user to the wait list |
+|!afktime | @user | Displays user's AFK time |
 |!allowlink | @user | Sets user to RDJ for 20 seconds so they can post a link |
 |!autojoin | null | Displays a warning message about autojoin |
 |!ban | @user hour/day/perm | Bans user for (one) hour/day/perm |
